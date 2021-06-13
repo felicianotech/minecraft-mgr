@@ -50,7 +50,7 @@ jobs:
           name: "Try installing Minecraft"
           command: |
             sudo ./minecraft-mgr.sh install
-            which minecraft
+            which minecraft-launcher
   check-minecraft-version:
     docker:
       - image: cimg/base:2021.04
