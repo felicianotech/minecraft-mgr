@@ -11,9 +11,8 @@ Specifically, these releases:
 
 - Ubuntu 18.04 "Bionic" 
 - Ubuntu 20.04 "Focal"
-- Ubuntu 20.10 "Groovy"
-- Ubuntu 21.04 "Hirsute"
-- Ubuntu Impish Idri
+- Ubuntu 22.04 "Jammy"
+- Ubuntu Lunar
 
 For 32-bit support or other distros, please open a Pull Request or Issue.
 
