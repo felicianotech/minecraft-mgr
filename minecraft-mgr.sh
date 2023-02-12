@@ -15,13 +15,10 @@ install_minecraft(){
 		focal)
 			pkgs="default-jre"
 			;;
-		groovy)
+		jammy)
 			pkgs="default-jre"
 			;;
-		hirsute)
-			pkgs="default-jre"
-			;;
-		impish)
+		lunar)
 			pkgs="default-jre"
 			;;
 		*)
