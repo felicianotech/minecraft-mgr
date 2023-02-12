@@ -16,10 +16,10 @@ install_minecraft(){
 			pkgs="default-jre"
 			;;
 		jammy)
-			pkgs="default-jre"
+			pkgs="default-jre libgdk-pixbuf2.0-0"
 			;;
 		lunar)
-			pkgs="default-jre"
+			pkgs="default-jre libgdk-pixbuf2.0-0"
 			;;
 		*)
 			echo "Your operating system is unsupported."
