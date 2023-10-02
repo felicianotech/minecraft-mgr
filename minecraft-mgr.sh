@@ -9,9 +9,6 @@ install_minecraft(){
 	pkgs=""
 
 	case $osCodename in
-		bionic)
-			pkgs="default-jre"
-			;;
 		focal)
 			pkgs="default-jre"
 			;;
