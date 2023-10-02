@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-minecraftMGRVersion="0.1.0"
+minecraftMGRVersion="0.2.0"
 
 install_minecraft(){
 
