@@ -21,6 +21,9 @@ install_minecraft(){
 		lunar)
 			pkgs="default-jre libgdk-pixbuf2.0-0"
 			;;
+		mantic)
+			pkgs="default-jre libgdk-pixbuf2.0-0"
+			;;
 		*)
 			echo "Your operating system is unsupported."
 			exit 1
